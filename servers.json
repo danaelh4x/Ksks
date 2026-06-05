@@ -1,7 +1,16 @@
-{
-  "nombre": "mexico",
-  "ip": "45.170.247.161",
-  "usuario": "bnet-GSPYV",
-  "contrasena": "27763",
-  "puerto": "22"
-}
+[
+  {
+    "nombre": "mexico",
+    "ip": "45.170.247.161",
+    "usuario": "bnet-GSPYV",
+    "contrasena": "27763",
+    "puerto": "22"
+  },
+  {
+    "nombre": "argentina",
+    "ip": "154.205.154.34",
+    "usuario": "Gatotest2-vpnjantit.com",
+    "contrasena": "Gatotest2",
+    "puerto": "22"
+  }
+]
