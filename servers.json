@@ -1,16 +1,16 @@
 [
   {
-    "nombre": "mexico",
+    "nombre": "Mexico",
     "ip": "45.170.247.161",
-    "usuario": "bnet-PHTKD",
-    "contrasena": "51134",
+    "usuario": "bnet-KLQYC",
+    "contrasena": "86757",
     "puerto": "22"
   },
   {
-    "nombre": "argentina",
-    "ip": "154.205.154.34",
-    "usuario": "Gatotest2-vpnjantit.com",
-    "contrasena": "Gatotest2",
+    "nombre": "Brasil",
+    "ip": "45.140.192.210",
+    "usuario": "bnet-LIJPV",
+    "contrasena": "26543",
     "puerto": "22"
   }
 ]
